@@ -1,0 +1,17 @@
+.btn-tomato
+{
+    background-color: tomato;
+    color:white;
+}
+label
+{
+    font-size: 12px!important;
+}
+
+@media  only screen and (max-width:600px)
+{
+    .card-body
+    {
+        width:100%!important;
+    }
+}
